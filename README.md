@@ -1,4 +1,2 @@
-# Python
-Learning python
-<br>
+# Python Learning
 Python Learning with Harsh Vardhan Kushwaha
