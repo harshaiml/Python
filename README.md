@@ -1,3 +1,4 @@
 # Python
-Learning python 
-Auther - Harsh Vardhan Kushwaha
+Learning python
+<br>
+Python Learning with Harsh Vardhan Kushwaha
